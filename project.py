@@ -207,4 +207,5 @@ while True:
         player2 = player2_name.strip()
         gameRunning = True
     else: 
+        print("Thanks for playing!")
         break
